@@ -1,5 +1,0 @@
-public class cps847 {
-
-   public int cps6622(int y){
-   return(4*y);
-}
